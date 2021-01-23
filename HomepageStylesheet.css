@@ -1,0 +1,62 @@
+h4 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 4em;
+    color: white;
+    line-height: 20px;
+}
+
+img.left {
+    float: left;
+    display: inline-block;
+    margin: 7px 20px;
+}
+
+p {
+    font: 1.8em cursive;
+    text-align: justify;
+    color: white;
+}
+
+.profile {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 3em;
+    margin-top: -4.5em;
+    color: white;
+}
+
+h6 {
+    font-family: verdana;
+    font-size: 2em;
+    margin: 0;
+
+}
+
+#career {
+    font: 2em cursive;
+    margin: 0;
+    line-height: 2;
+}
+
+h5 {
+    font-family: verdana;
+    font-size: 2em;
+    margin: 0;
+    line-height: 2;
+}
+
+#hobbies {
+    font: 2em cursive;
+    margin: 0;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-ppt-full-technology-sense-creative-geometric-lines-home-background-backgroundppt-templatecreative-image_67510.jpg");
+}
+
+a {
+    color: white;
+}
